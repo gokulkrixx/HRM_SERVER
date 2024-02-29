@@ -6,18 +6,18 @@ module.exports = {
     .insertMany([
       {
         _id: "65dda5e1a7946887e0361a56",
-        firstname: "sabin",
+        firstname: "rock",
         lastname: "wick",
-        email: "sw@gmail.com",
-        password: "$2a$12$KnQN2//Vv6Rtf8bKv76ENuLA/oNvkw8Ut55.6mRDra6ackhJZhrie",
+        email: "rw@gmail.com",
+        password: "$2a$12$drHEv4YvO7DeBparY0.FZ.H0W3ey7yvKhgtOeoYgXQ1NsN9MaxTCK",
         phone: "9876543213"
       },
       {
         _id: "65dda705a7946887e0361a57",
-        firstname: "john",
+        firstname: "mac",
         lastname : "rambo",
-        email: "jr@gmail.com",
-        password: "$2a$12$hQ3WsJA8DJNhuoQENec5heVdEnmSNpnNYi4vXGi/OpYeeEjTET77S",
+        email: "mr@gmail.com",
+        password: "$2a$12$oFnRqhugBQDpBBS1Koo3meRkBY1R5r0XdfbuSqMqJuMhdkxgohIOa",
         phone: "9349157204"
       }
     ])
